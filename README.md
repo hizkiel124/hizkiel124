@@ -164,9 +164,7 @@ where I can contribute analytical thinking, research experience, and technical s
 # 🐍 Contribution Graph
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/hizkiel124/hizkiel124/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/hizkiel124/hizkiel124/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
