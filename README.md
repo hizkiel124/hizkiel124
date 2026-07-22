@@ -163,8 +163,6 @@ where I can contribute analytical thinking, research experience, and technical s
 
 # 🐍 Contribution Graph
 
-> **Note:** This animation requires a GitHub Actions workflow before it will appear.
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/hizkiel124/hizkiel124/output/github-contribution-grid-snake-dark.svg"/>
