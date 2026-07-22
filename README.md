@@ -1,22 +1,28 @@
 <h1 align="center">Hi 👋, I'm Hizkiel Alvian Sembiring</h1>
 
 <h3 align="center">
-Sociology Graduate | Aspiring Data Analyst | Python & Data Analytics Enthusiast
+Bachelor of Sociology | Aspiring Data Analyst | Python & Data Analytics Enthusiast
 </h3>
 
 <p align="center">
-I enjoy transforming raw data into meaningful insights through analytics, visualization, and data-driven decision making.
+Transforming data into meaningful insights through analytics, visualization, and continuous learning.
+</p>
+
+<p align="center">
+  <a href="https://github.com/hizkiel124">
+    <img src="https://komarev.com/ghpvc/?username=hizkiel124&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm **Hizkiel Alvian Sembiring**, a **Bachelor of Sociology graduate from Universitas Sumatera Utara** with a strong passion for **Data Analytics**, **Business Intelligence**, and **Data Visualization**.
+Hello! I'm **Hizkiel Alvian Sembiring**, a **Bachelor of Sociology graduate from Universitas Sumatera Utara** with a strong passion for **Data Analytics**, **Data Visualization**, and **Business Intelligence**.
 
-My academic background has equipped me with research, analytical thinking, data interpretation, and problem-solving skills. To strengthen my technical expertise, I am actively learning Python and modern data analytics through the **IBM Data Analysis with Python Professional Certificate** while building hands-on portfolio projects.
+My academic journey strengthened my skills in research methodology, analytical thinking, data interpretation, and problem solving. Currently, I'm expanding my technical expertise by learning Python and modern data analytics through the **IBM Data Analysis with Python Professional Certificate** while building hands-on portfolio projects.
 
-I enjoy exploring datasets, uncovering meaningful insights, and continuously improving my analytical skills through practical projects.
+I believe that good decisions begin with good data.
 
 ---
 
@@ -24,7 +30,7 @@ I enjoy exploring datasets, uncovering meaningful insights, and continuously imp
 
 **Bachelor of Sociology (S.Sos.)**
 
-Universitas Sumatera Utara
+**Universitas Sumatera Utara**
 
 **GPA:** 3.53 / 4.00
 
@@ -34,11 +40,12 @@ Universitas Sumatera Utara
 
 - 📊 Data Analytics
 - 🐍 Python Programming
-- 📈 Data Visualization
-- 🧹 Data Cleaning & Wrangling
+- 🧹 Data Cleaning
 - 📉 Exploratory Data Analysis (EDA)
-- 🗄 SQL
-- 📊 Power BI
+- 📈 Data Visualization
+- 📚 IBM Data Analysis with Python
+- 📚 IBM Data Visualization with Python
+- 📚 Google Data Analytics
 
 ---
 
@@ -48,24 +55,32 @@ Universitas Sumatera Utara
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
+---
+
 ### Data Analysis
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 
+---
+
 ### Data Visualization
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 
+---
+
 ### Tools
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-### Other
+---
+
+### Other Skills
 
 - Microsoft Excel
 - SPSS
@@ -76,91 +91,119 @@ Universitas Sumatera Utara
 
 # 📂 Featured Projects
 
-## 🚗 Used Cars Data Analysis
+### 🚗 Used Cars Data Analysis
 
-Comprehensive data analysis on used car pricing.
+A complete exploratory data analysis project using Python.
 
-Projects include:
+**Repositories**
 
-- Importing Dataset
-- Data Wrangling
-- Exploratory Data Analysis
-
----
-
-## 💻 Laptop Pricing Analysis
-
-End-to-end exploratory analysis of laptop pricing data.
-
-Projects include:
-
-- Importing Dataset
-- Data Wrangling
-- Exploratory Data Analysis
+- Used Cars Importing Dataset
+- Used Cars Data Wrangling
+- Used Cars Exploratory Data Analysis
 
 ---
 
-More data analysis projects are coming soon.
+### 💻 Laptop Pricing Analysis
+
+End-to-end data analysis project focusing on laptop pricing.
+
+**Repositories**
+
+- Laptop Pricing Importing Dataset
+- Laptop Pricing Data Wrangling
+- Laptop Pricing Exploratory Data Analysis
 
 ---
 
-# 📚 Currently Learning
+### 📌 More Projects Coming Soon
 
-- IBM Data Analysis with Python Professional Certificate
-- IBM Data Visualization with Python
-- Google Data Analytics Professional Certificate
-- SQL for Data Analysis
-- Power BI
+Upcoming portfolio projects include:
+
+- Netflix Data Analysis
+- Spotify Data Analysis
+- Sales Dashboard
+- SQL Portfolio
+- Power BI Dashboard
+
+---
+
+# 📜 Certifications
+
+### IBM
+
+- Data Analysis with Python *(In Progress)*
+- Data Visualization with Python *(In Progress)*
+
+### Google
+
+- Google Data Analytics Professional Certificate *(In Progress)*
 
 ---
 
 # 🎯 Career Interests
 
-I'm currently seeking opportunities in:
+I'm actively seeking opportunities as:
 
 - Data Analyst
 - Business Intelligence Analyst
-- Research Analyst
 - Reporting Analyst
+- Research Analyst
 
-where I can apply analytical thinking and technical skills to solve real-world business problems.
+where I can leverage analytical thinking and technical skills to solve real-world business problems.
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hizkiel124&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hizkiel124&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=hizkiel124&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+> GitHub Stats card will be added again once the public GitHub Readme Stats service becomes available.
+
+---
+
+# 🌱 Currently Learning
+
+- Python for Data Analytics
+- Exploratory Data Analysis
+- Data Visualization
+- SQL
+- Power BI
+- Machine Learning Fundamentals
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email**
+### 📧 Email
 
-sembiringian2@gmail.com
+**sembiringian2@gmail.com**
 
-💼 **LinkedIn**
+### 💼 LinkedIn
 
-https://www.linkedin.com/in/hizkiel-alvian-sembiring-603013222/
+**https://www.linkedin.com/in/hizkiel-alvian-sembiring-603013222/**
 
-🐙 **GitHub**
+### 🐙 GitHub
 
-https://github.com/hizkiel124
+**https://github.com/hizkiel124**
 
 ---
 
 # 💡 Fun Fact
 
-I enjoy exploring datasets, discovering hidden patterns, and turning data into actionable insights. Every project is an opportunity to learn something new.
+I enjoy exploring datasets, identifying hidden patterns, and transforming raw data into meaningful insights.
+
+Every dataset tells a story—I enjoy discovering it.
 
 ---
 
+<p align="center">
+
 ⭐ Thank you for visiting my GitHub profile!
 
-Feel free to explore my repositories and connect with me!
+If you enjoy my projects, feel free to star my repositories and connect with me.
+
+</p>
